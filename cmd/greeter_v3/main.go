@@ -6,4 +6,5 @@ import (
 
 func main() {
 	pkg.Greet("World")
+	pkg.Version("3")
 }
